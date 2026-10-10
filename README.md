@@ -154,7 +154,7 @@ Expected result for the original starter tests:
 
 ```text
 ....                     [100%]
-4 passed
+5 passed
 ```
 
 All tests should pass without errors.
